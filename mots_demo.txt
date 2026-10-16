@@ -1,0 +1,25 @@
+bonjour|Salutation utilisée pour dire bonjour.
+salut|Formule de salutation familière.
+maison|Bâtiment servant d'habitation.
+chat|Petit mammifère domestique.
+chien|Mammifère domestique souvent élevé comme compagnon.
+arbre|Plante ligneuse ayant un tronc.
+route|Voie aménagée pour la circulation.
+amour|Sentiment d'affection intense.
+livre|Ouvrage composé de pages écrites ou imprimées.
+table|Meuble comportant un plateau et des pieds.
+pomme|Fruit du pommier.
+orange|Fruit de l'oranger.
+soleil|Étoile au centre du système solaire.
+lune|Satellite naturel de la Terre.
+école|Établissement où l'on enseigne.
+mot|Élément de langue ayant un sens.
+jeu|Activité organisée pour se divertir.
+scrabble|Jeu de lettres où les joueurs forment des mots.
+ivoire|Matière dure et blanche provenant notamment des défenses d'éléphants.
+merci|Mot exprimant la gratitude.
+eau|Liquide transparent essentiel à la vie.
+feu|Combustion dégageant chaleur et lumière.
+terre|Sol sur lequel on marche.
+vent|Mouvement de l'air.
+pain|Aliment préparé principalement avec de la farine et de l'eau.
